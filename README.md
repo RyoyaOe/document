@@ -1,34 +1,38 @@
 # Document
 
-- [vscode](!vscode)
-  - [プラグイン](!プラグイン)
-- [git](!git)
-- [sourcetree](!sourcetree)
+<https://github.com/RyoyaOe/document>
+
+- [Document](#document)
+  - [vscode](#vscode)
+  - [git](#git)
+  - [sourcetree](#sourcetree)
 
 ## vscode
 
-### プラグイン
+<https://azure.microsoft.com/ja-jp/products/visual-studio-code/>
 
-```c
-[.md]書くための便利昨日
-Markdown All in One
+[参考](https://qiita.com/kamorits/items/6f342da395ad57468ae3) マークダウン記法 一覧表・チートシート
 
-[.md]スクショ
-Markdown Image
+```text
+  [config]
+    Japanese Language Pack for Visual Studio Code
+    indet-rainbow
+    Trailing Spaces (fork)
+    vscode-icons
 
-[.md]PDFで出力
-Markdown PDF
+  [sftp]
+    SFTP
 
-[.md]プレビュー
-Markdown Preview Enhanced
-
-[.md]構文チェック
-markdownlint
-
-フロー図
-Draw.io Integration
+  [git]
+    Git Graph
 ```
 
 ## git
 
+<https://gitforwindows.org/>
+
 ## sourcetree
+
+<https://www.sourcetreeapp.com/>
+
+[参考](https://mteam.jp/column/10210/) インストール・初期設定方法
