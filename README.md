@@ -11,8 +11,6 @@
 
 <https://azure.microsoft.com/ja-jp/products/visual-studio-code/>
 
-[参考](https://qiita.com/kamorits/items/6f342da395ad57468ae3) マークダウン記法 一覧表・チートシート
-
 ```text
   [config]
     Japanese Language Pack for Visual Studio Code
